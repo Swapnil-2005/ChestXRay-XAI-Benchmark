@@ -112,7 +112,7 @@ The following XAI methods were implemented and evaluated:
 ## 2. Attribution Map (Integrated Gradients)
 
 <p align="center">
-  <img src="assets/attributemap.png" width="800">
+  <img src="assets/atrributemap.png" width="800">
 </p>
 
 ### Observation
